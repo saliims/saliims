@@ -1,5 +1,5 @@
 Hi, I’m Salim 👋 <br>
-I’m a fullstack developer
+
 
 
 <!---
