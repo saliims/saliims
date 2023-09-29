@@ -1,5 +1,5 @@
 Hi, I’m Salim 👋 <br>
-
+I'm a full stack developper, as well as a computer science graduate (Master degree).
 
 
 <!---
